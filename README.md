@@ -88,3 +88,5 @@ This track answers questions 1 to 8 and part of 10 (the interactive dashboard). 
 
 ## 12. Source
 Dataset: Consumer Complaints on Financial Products and Services, Bank of America (2017 to 2023). Data provider: Consumer Financial Protection Bureau (CFPB), supplied by AnalystLab Africa.
+
+Presentation video: https://drive.google.com/drive/folders/1kSvXJrNx8PqoQfT8HtT-dm9dv8MjWTQR?usp=sharing
